@@ -1,0 +1,1 @@
+function e(e,t){if(!Number.isFinite(t)||t<=0)return 0;let n=e/t*100;return n<0?0:n>100?100:Math.round(n)}export{e as t};

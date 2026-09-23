@@ -1,0 +1,1 @@
+function e(...e){let t=[];for(let n of e)typeof n==`string`&&n.length>0&&t.push(n);return t.join(` `)}export{e as t};
