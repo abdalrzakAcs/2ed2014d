@@ -1,0 +1,1 @@
+import{I as e,Ut as t,Yt as n,qt as r}from"./index-2LLcAt8F.js";var i=t();function a({statuses:t,code:a,fallback:o=`بلا حالة`}){let s=r(t,a);return(0,i.jsx)(e,{tone:n(s),dot:!0,children:s?.label_ar??o})}export{a as t};
