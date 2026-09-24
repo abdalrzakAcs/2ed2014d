@@ -1,0 +1,1 @@
+import{Gt as e,R as t,Yt as n,Zt as r}from"./index-Dpeezk_H.js";var i=e();function a({statuses:e,code:a,fallback:o=`بلا حالة`}){let s=n(e,a);return(0,i.jsx)(t,{tone:r(s),dot:!0,children:s?.label_ar??o})}export{a as t};
