@@ -1,1 +1,0 @@
-import{$t as e,H as t,Yt as n,tn as r}from"./index-BpG1kPsB.js";var i=n();function a({statuses:n,code:a,fallback:o=`بلا حالة`}){let s=e(n,a);return(0,i.jsx)(t,{tone:r(s),dot:!0,children:s?.label_ar??o})}export{a as t};
