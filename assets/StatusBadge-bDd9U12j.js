@@ -1,0 +1,1 @@
+import{U as e,Xt as t,en as n,nn as r}from"./index-Ce0POw6D.js";var i=t();function a({statuses:t,code:a,fallback:o=`بلا حالة`}){let s=n(t,a);return(0,i.jsx)(e,{tone:r(s),dot:!0,children:s?.label_ar??o})}export{a as t};
