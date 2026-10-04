@@ -1,0 +1,1 @@
+import{Bt as e,Ht as t,It as n,O as r}from"./ui-DGQZynXW.js";var i=n();function a({statuses:n,code:a,fallback:o=`بلا حالة`}){let s=e(n,a);return(0,i.jsx)(r,{tone:t(s),dot:!0,children:s?.label_ar??o})}export{a as t};
