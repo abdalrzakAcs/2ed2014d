@@ -79,7 +79,7 @@ self.addEventListener('push', (event) => {
   } catch {
     data = { body: event.data ? event.data.text() : '' }
   }
-  const title = typeof data.title === 'string' && data.title !== '' ? data.title : 'ACS'
+  const title = typeof data.title === 'string' && data.title !== '' ? data.title : 'BIT'
   const options = {
     body: typeof data.body === 'string' ? data.body : '',
     lang: 'ar',
