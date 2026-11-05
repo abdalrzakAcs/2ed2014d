@@ -1,0 +1,1 @@
+import{E as e,It as t}from"./ui-CIikGPVs.js";import{t as n}from"./MoneyView-BUaSZ9v8.js";var r={page:`_page_15jbc_1`},i=t();function a(){return(0,i.jsxs)(`div`,{className:r.page,children:[(0,i.jsx)(e,{title:`المال`,subtitle:`شو دخل وشو طلع هالشهر، شو معك هلق، ومين إلك عنده ومين إله عليك.`}),(0,i.jsx)(n,{})]})}export{a as default};
