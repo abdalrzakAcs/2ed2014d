@@ -1,0 +1,1 @@
+import{Gt as e,O as t,Rt as n,qt as r}from"./ui-CUUOuzmv.js";var i=n();function a({statuses:n,code:a,fallback:o=`بلا حالة`}){let s=e(n,a);return(0,i.jsx)(t,{tone:r(s),dot:!0,children:s?.label_ar??o})}export{a as t};
